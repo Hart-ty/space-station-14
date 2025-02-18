@@ -19,3 +19,25 @@
     sprite: _Sunrise/Clothing/Neck/Scarfs/cyan.rsi
   - type: Clothing
     sprite: _Sunrise/Clothing/Neck/Scarfs/cyan.rsi
+
+- type: entity
+  parent: ClothingScarfBase
+  id: ClothingNeckScarfHos
+  name: hos's scarf
+  description: Smels like tabacco and gunpowder.
+  components:
+  - type: Sprite
+    sprite: _Sunrise/Clothing/Neck/Scarfs/scarf_hos.rsi
+  - type: Clothing
+    sprite: _Sunrise/Clothing/Neck/Scarfs/scarf_hos.rsi
+
+- type: entity
+  parent: ClothingScarfBase
+  id: ClothingNeckScarfCmo
+  name: cmo's scarf
+  description: Smels like chemistry.
+  components:
+  - type: Sprite
+    sprite: _Sunrise/Clothing/Neck/Scarfs/scarf_cmo.rsi
+  - type: Clothing
+    sprite: _Sunrise/Clothing/Neck/Scarfs/scarf_cmo.rsi
